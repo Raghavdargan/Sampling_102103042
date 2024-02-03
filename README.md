@@ -44,13 +44,13 @@ It's interpretable and provides coefficients for each feature, indicating their 
 A tree-like model where each node represents a feature, each branch a decision, and each leaf an outcome.
 It's capable of handling both classification and regression tasks and is interpretable.
 
-(iii)XGBoost
+(iii)XGBoost:
 XGBoost is an ensemble learning algorithm that uses a gradient boosting framework, excelling in both speed and performance for classification and regression tasks.
 
-(iv)SGD Classifier
+(iv)SGD Classifier:
  Stochastic Gradient Descent (SGD) Classifier is a linear classifier optimized using stochastic gradient descent, suitable for large-scale machine learning problems due to its efficiency and ease of implementation.
 
-(v)Extra Tree
+(v)Extra Tree:
 Extra Trees, or Extremely Randomized Trees, is an ensemble learning method that builds multiple decision trees and combines them to improve accuracy, robustness, and control overfitting in classification and regression tasks.
 
 # 3. Output
